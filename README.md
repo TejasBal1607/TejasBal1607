@@ -6,8 +6,8 @@
 ### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -23,6 +23,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autocad&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-D32F2F?style=for-the-badge&logo=solidworks&logoColor=white" />
+</p>
+
+### Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## GitHub Stats
@@ -31,6 +39,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasBal1607&layout=compact&theme=dracula" height="180" alt="languages graph"  />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasBal1607&theme=dracula" width="100%"/>
+### Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/tejas-bal-906242390/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</p>
 <!--
 **TejasBal1607/TejasBal1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
