@@ -39,6 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasBal1607&layout=compact&theme=dracula" height="180" alt="languages graph"  />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasBal1607&theme=dracula" width="100%"/>
+
 ## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-bal-906242390/" target="blank">
@@ -46,6 +47,7 @@
 </a>
 </p>
 <!--
+
 **TejasBal1607/TejasBal1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
