@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasBal1607&layout=compact&theme=dracula" height="180" alt="languages graph"  />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasBal1607&theme=dracula" width="100%"/>
-### Connect with me
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/tejas-bal-906242390/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
