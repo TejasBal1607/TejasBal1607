@@ -46,6 +46,13 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TejasBal1607/TejasBal1607/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TejasBal1607/TejasBal1607/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/TejasBal1607/TejasBal1607/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!--
 
 **TejasBal1607/TejasBal1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
