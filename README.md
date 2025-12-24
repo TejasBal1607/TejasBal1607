@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/tejas-bal-906242390/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</p>
+
 ## GitHub Stats
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=TejasBal1607&show_icons=true&theme=dracula" height="140" alt="stats graph"  /> -->
@@ -41,13 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasBal1607&layout=compact&theme=dracula" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasBal1607&theme=dracula" width="100%"/>
 </div>
-
-## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/tejas-bal-906242390/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TejasBal1607/TejasBal1607/blob/output/github-contribution-grid-snake-dark.svg" />
