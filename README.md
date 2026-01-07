@@ -87,7 +87,8 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=TejasBal1607&show_icons=true&theme=dracula" height="140" alt="stats graph"  /> -->
   
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TejasBal1607&theme=tokyonight" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TejasBal1607&theme=tokyonight" height="180" alt="streak graph" />
+  <img src="https://readme-stats-gilt-alpha.vercel.app/api/top-langs/?username=TejasBal1607&layout=compact&theme=github_dark&hide_border=true&cache_seconds=600&v=2&langs_count=10" height="200"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasBal1607&theme=dracula" width="100%"/>
 </div>
 
