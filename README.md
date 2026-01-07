@@ -10,6 +10,7 @@
   <a href="mailto:tejas1607.best@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Anay0305&style=flat&color=lightgray" alt="Profile Views"/>
 </p>
 
 ## Skills
